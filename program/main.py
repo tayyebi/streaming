@@ -63,7 +63,7 @@ class Run(object):
                 newfilename = "a_" + str(n)[:-2] + '.html';
                 # Add to dictionary
                 index[filename] = newfilename
-                menu.Append('<li><a href="' + newfilename + '">' + document + '</a></li>');
+                menu.Append('<li><a href="' + newfilename + '#content">' + document + '</a></li>');
         menu.Append('</ul>');
 
         # Read each file content
@@ -79,7 +79,10 @@ class Run(object):
             with io.open(dir_path + '/'+list(index.values())[i],'w',encoding='utf8') as f:
                 f.write(str(header))
                 f.write(str(menu))
-                f.write('<div class="content">' + str(doc) + '</div>')
+                f.write('<div id="content" class="content">')
+                f.write('<a class="edit" href="https://github.com/tayyebi/streaming/edit/archive' + (list(index.keys())[i])[len(dir_path):-3] + '.md">ویرایش این فایل</a>')
+                f.write(str(doc))
+                f.write('</div>')
                 f.write(str(footer))
 
         with io.open(dir_path + '/index.html','w',encoding='utf8') as f:

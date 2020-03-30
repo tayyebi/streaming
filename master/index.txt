@@ -1,9 +1,22 @@
 <div class="content">
 <h1>راهنما‌ی پیاده‌سازی سرویس پخش بلادرنگ صوت و تصویر برای مراکز آموزشی</h1>
 
-<div class="content"><p>نویسنده: <strong>محمدرضا طیبی</strong>، دانشگاه بوعلی سینا، <a href="mailto:smile@tyyi.net">smile@tyyi.net</a></p>
+<img src="https://img.shields.io/github/last-commit/tayyebi/streaming" alt="Last commit" />
+<img src="https://img.shields.io/github/contributors/tayyebi/streaming" alt="Contributers" />
 
-<p>با تشکر و قدردانی از: <strong>امیرحسین باباییان</strong>، دانشگاه بوعلی سینا، <a href="mailto:AmirhosseinBabaeayan@gmail.com">AmirhosseinBabaeayan@gmail.com</a></p>
+<div class="content">
+
+<p>نویسنده:
+    <strong>محمدرضا طیبی</strong>، دانشگاه بوعلی سینا، <a href="mailto:smile@tyyi.net">smile@tyyi.net</a>
+</p>
+
+<p>با تشکر و قدردانی از:
+<ul>
+
+    <li><strong>امیرحسین باباییان</strong>، دانشگاه بوعلی سینا، <a href="mailto:AmirhosseinBabaeayan@gmail.com">AmirhosseinBabaeayan@gmail.com</a></li>
+
+</ul>
+</p>
 </div>
 
 <img src="content/RTMP/diagram.svg" />

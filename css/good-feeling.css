@@ -6,6 +6,8 @@
     font-family: 'Main' !important;
 }
 html, body{
+    text-align: right;
+    direction: rtl;
     margin: 0;
     padding: 0;
 }
@@ -33,12 +35,6 @@ footer {
     text-align: center;
     background-color: #655f61;
     color: white;
-}
-header img{
-    position: absolute;
-    width: 7em;
-    right: 2em;
-    top: 2em;
 }
 .navigation{
     border: solid 0.05em #8ad2ce;

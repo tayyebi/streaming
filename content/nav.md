@@ -1,31 +1,11 @@
 [//]: # (use dash and space for directory -> -)
 [//]: # (use four spaces and a number following by a dot for file ->     1.)
 
-- Gordarg
-    1. Strategy
-    1. Spin-out
-    1. Logo
-    1. Color
-    1. Font
-    1. Badges
-    1. Partners
-- Communications
-    1. CSR Training Service
-    1. Protocol AnC
-- Snow Framework
-    1. Installation
-    1. Architecture
-    1. Posts Type
-    1. Posts Life Cycle
-    1. Posts Levels
-    1. Roles
-    1. API
-    1. Development - Notation
-- Gordafarid
-    1. About
-
-
-
-
-
-
+- متن باز
+    1. Git - Clone
+    1. Git - Pull
+    1. Git - Push
+    1. Git - Pull Request
+    1. Git - Prune
+- RTMP
+    1. Real-Time Messaging Protocol

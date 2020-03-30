@@ -1,1 +1,0 @@
-![SnowFramework Architecture Overall View](content/Snow Framework/architecture.svg)

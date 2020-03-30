@@ -1,3 +1,18 @@
-Welcome to Gordarg Docs.
+راهنمای راه‌اندازی استریمینگ (پخش بلادرنگ صوت و تصویر)
+===
 
-This repository contains tools to generate your static webpages quickly with simple MarkDown standards. This also support's all client-side web design stuff.
+# محتویات این مخزن
+راهنمای راه‌اندازی سریع یک سامانه‌ی اسرتیمینگ
+
+# دانلود راهنما:
+<...>
+
+<hr/>
+
+# تقدیم به:
+
+- دانشگاه بوعلی سینا
+![لوگوی دانشگاه بوعلی سینا](meta/BASU.svg)
+
+- دانشگاه صنعتی همدان
+![لوگوی دانشگاه صنعتی همدان](meta/HUT.svg)

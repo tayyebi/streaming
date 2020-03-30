@@ -1,10 +1,20 @@
 <div class="content">
 <h1>راهنما‌ی پیاده‌سازی سرویس پخش بلادرنگ صوت و تصویر برای مراکز آموزشی</h1>
 
-<img src="https://img.shields.io/github/last-commit/tayyebi/streaming" alt="Last commit" />
-<img src="https://img.shields.io/github/contributors/tayyebi/streaming" alt="Contributers" />
 
-<div class="content">
+<img style="display:inline-block" src="https://img.shields.io/github/last-commit/tayyebi/streaming" alt="Last commit" />
+<img style="display:inline-block" src="https://img.shields.io/github/contributors/tayyebi/streaming" alt="Contributers" />
+
+
+<p>
+در این آشفتگی‌های هجوم ویروس کرونا، این سند با مهر تقدیم می‌شود به:
+
+<br/>
+
+<img style="display:inline-block" src="meta/BASU.svg" alt="لوگوی دانشگاه بوعلی سینا" />
+<img style="display:inline-block" src="meta/HUT.svg" alt="لوگوی دانشگاه صنعتی همدان" />
+
+</p>
 
 <p>نویسنده:
     <strong>محمدرضا طیبی</strong>، دانشگاه بوعلی سینا، <a href="mailto:smile@tyyi.net">smile@tyyi.net</a>
@@ -17,7 +27,6 @@
 
 </ul>
 </p>
-</div>
 
 <img src="content/RTMP/diagram.svg" />
 
